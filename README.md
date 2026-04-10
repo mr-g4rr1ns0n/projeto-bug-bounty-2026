@@ -1,0 +1,1 @@
+# projeto-bug-bounty-2026
